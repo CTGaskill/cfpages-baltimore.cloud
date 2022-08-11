@@ -1,4 +1,4 @@
 # Resume
-![Resume](static/img/CarlGaskillResume-1.png)
+![Resume](static/img/resume.png)
 
 
