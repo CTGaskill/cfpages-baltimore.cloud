@@ -1,4 +1,4 @@
-# Let's get in touch
+# Let's get in touch!
 
 {{< rawhtml >}}
 
