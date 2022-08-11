@@ -1,4 +1,3 @@
-# Resume
-![Resume](static/img/resume.png)
+![Resume](/static/img/resume.png)
 
 
