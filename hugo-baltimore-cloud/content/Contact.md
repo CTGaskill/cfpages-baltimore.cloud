@@ -13,7 +13,7 @@
         <input type="text" placeholder="Phone Number" class="form-input" name="entry.1860059177" required>
 
    <label>What's Up?</label>
-        <textarea rows="5" placeholder="Put something here if the Internet Box is broken, or you just wanna say hi." class="form-input" name="entry.932628819" ></textarea>
+        <textarea rows="5" placeholder="Put something here if the Internet Box is broken, or if you just wanna say hi." class="form-input" name="entry.932628819" ></textarea>
 
    <button type="submit">Submit</button>
 </form>
