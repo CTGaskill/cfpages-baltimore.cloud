@@ -64,7 +64,7 @@ paginate     = 10
     url        = "/Contact"
     
     [params.portrait]
-    path     = "/static/img/portrait.jpg"
+    path     = "/static/img/portrait.jpeg"
     alt      = ""
    maxWidth = "200px"
       
